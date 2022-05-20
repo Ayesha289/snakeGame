@@ -1,2 +1,2 @@
 # snakeGame
-Build Nokia Snake game using Turtle and OOPs.
+Built Nokia Snake game using Turtle and OOPs.
